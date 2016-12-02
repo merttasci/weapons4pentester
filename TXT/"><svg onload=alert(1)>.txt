@@ -1,1 +1,0 @@
-“><svg/onload=alert(2)>
